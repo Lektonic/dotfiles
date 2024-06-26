@@ -7,3 +7,4 @@ rm ${XDG_CONFIG_HOME}/tmux
 rm ${XDG_CONFIG_HOME}/alacritty
 rm ${XDG_CONFIG_HOME}/i3
 rm ${XDG_CONFIG_HOME}/kitty
+rm ${XDG_CONFIG_HOME}/hypr
